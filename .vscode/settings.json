@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/9b50268c-3d33-4762-974e-46de78e0f28e/resourceGroups/ASM_TrangRG/providers/Microsoft.Web/sites/asm2trang"
+}

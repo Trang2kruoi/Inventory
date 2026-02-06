@@ -1,0 +1,5 @@
+D:\SOA206_điện toán đám mây\inventory\bin\Debug\net8.0\inventory.dll
+D:\SOA206_điện toán đám mây\inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SOA206_điện toán đám mây\inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SOA206_điện toán đám mây\inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SOA206_điện toán đám mây\inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
