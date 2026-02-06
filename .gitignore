@@ -58,6 +58,9 @@ artifacts/
 import os.py
 *.py
 
+# Embedded git repositories
+asm/
+
 # OS files
 .DS_Store
 Thumbs.db
